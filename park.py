@@ -1,5 +1,4 @@
-#  런타임 에러 발생
-
+#  성공
 def solution(park, routes):
     answer = []
     X = [-1, +1, 0, 0]
